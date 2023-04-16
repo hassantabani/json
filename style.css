@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  body{
+    background-color: black;
+  }
+ #submitbtn{
+  background-color: burlywood;
+  position: absolute;
+  justify-content: center;
+  width: 180px;
+  
+ } 
+  
+ .card2{
+  background-color: floralwhite;
+  height: 250px;
+ }
